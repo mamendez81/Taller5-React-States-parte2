@@ -6,15 +6,15 @@ class Table extends React.Component {
     render(){
         return(
             <div>
-            <Table>
-                <TableHeader />
-                <TableBody />
-            </Table>
+            <table>
+                <TableHeader/>
+                <TableBody/>
+            </table>
             <hr />
-            <Table>
-                <TableHeader />
-                <TableBody />
-            </Table>
+            <table>
+                <TableHeader/>
+                <TableBody/>
+            </table>
             </div>
             
         )
